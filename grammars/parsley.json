@@ -325,7 +325,7 @@
                     "name": "support.constant.parsley"
                 },
                 "2": {
-                    "name": "support.constant.parsley"
+                    "name": "punctuation.definition.tag.html"
                 }
             },
             "patterns": []
